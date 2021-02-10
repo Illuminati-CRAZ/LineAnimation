@@ -9,7 +9,7 @@ Make lines that move
   
 # Recommended
 - Knowledge of algebraic functions
-- Knowledge of expressing such functions in lua
+- Knowledge of expressing such functions in Lua
 - A graphing calculator
 - A way to backup .qua files
 - Maybe knowledge of basic calculus
